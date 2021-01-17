@@ -1,1 +1,1 @@
-Spam/Ham Classifier with Deployment in Heroku
+Deployment of Spam/Ham Classifier Model in Heroku
